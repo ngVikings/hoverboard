@@ -446,6 +446,90 @@
 
       "Angular"
     ]
+  },
+
+  "101": {
+    "id": 101,
+    "title": "Office Hours: Meet The Speakers",
+    "description": "Ask your questions directly to the speaker in a quiet, friendly environment.",
+    "speakers": [
+      28, 29, 30, 31, 32
+    ],
+    "tags": [
+
+
+      "Angular"
+    ]
+  },
+
+  "102": {
+    "id": 102,
+    "title": "Office Hours: Meet The Speakers",
+    "description": "Ask your questions directly to the speaker in a quiet, friendly environment.",
+    "speakers": [
+      16, 21, 12, 19, 20
+    ],
+    "tags": [
+
+
+      "Angular"
+    ]
+  },
+
+  "103": {
+    "id": 103,
+    "title": "Office Hours: Meet The Speakers",
+    "description": "Ask your questions directly to the speaker in a quiet, friendly environment.",
+    "speakers": [
+      13, 18, 14, 15, 84
+    ],
+    "tags": [
+
+
+      "Angular"
+    ]
+  },
+
+  "104": {
+    "id": 104,
+    "title": "Office Hours: Meet The Speakers",
+    "description": "Ask your questions directly to the speaker in a quiet, friendly environment.",
+    "speakers": [
+      22, 23, 11, 17, 88
+    ],
+    "tags": [
+
+
+      "Angular"
+    ]
+  },
+
+  "105": {
+    "id": 105,
+    "title": "Office Hours: Meet The Speakers",
+    "description": "Ask your questions directly to the speaker in a quiet, friendly environment.",
+    "speakers": [
+      24, 25, 26, 27, 86
+    ],
+    "tags": [
+
+
+      "Angular"
+    ]
+  },
+
+  "106": {
+    "id": 106,
+    "title": "Office Hours: Meet The Speakers",
+    "description": "Ask your questions directly to the speaker in a quiet, friendly environment.",
+    "speakers": [
+      87, 82, 83, 33, 85
+    ],
+    "tags": [
+
+
+      "Angular"
+    ]
   }
 
 }

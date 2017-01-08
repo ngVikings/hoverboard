@@ -701,6 +701,30 @@
     }]
   },
 
+  "33": {
+    "id": 33,
+    "featured": true,
+    "name": "Kristiyan Kostadinov",
+    "title": "Core team member, Angular Material",
+    "company": "Google",
+    "companyLogo": "",
+    "country": "Denmark",
+    "photoUrl": "/images/people/KristiyanKostadinov.jpg",
+    "shortBio": "Kristiyan is a front-end developer, passionate open-source contributor and a core team member on Angular Material.",
+    "bio": "Kristiyan is a front-end developer, passionate open-source contributor and a core team member on Angular Material.",
+    "tags": [
+      "Angular Material",
+
+      "Angular"
+    ],
+    "badges": [],
+    "socials": [{
+      "icon": "github",
+      "name": "GitHub",
+      "link": "https://twitter.com/crisbeto"
+    }]
+  },
+
   "82": {
     "id": 82,
     "featured": true,

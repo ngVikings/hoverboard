@@ -5,6 +5,8 @@
     "title": "Room: Bifrost"
   }, {
     "title": "Room: Valhalla"
+  }, {
+    "title": "Room: Midgard"
   }],
   "timeslots": [{
     "startTime": "08:00",
@@ -63,21 +65,24 @@
     "endTime": "14:15",
     "sessions": [
       [22],
-      [23]
+      [23],
+      [101]
     ]
   }, {
     "startTime": "14:15",
     "endTime": "14:50",
     "sessions": [
       [11],
-      [17]
+      [17],
+      [102]
     ]
   }, {
     "startTime": "14:50",
     "endTime": "15:25",
     "sessions": [
       [24],
-      [25]
+      [25],
+      [103]
     ]
   }, {
     "startTime": "15:25",
@@ -90,21 +95,24 @@
     "endTime": "16:35",
     "sessions": [
       [26],
-      [27]
+      [27],
+      [104]
     ]
   }, {
     "startTime": "16:35",
     "endTime": "17:10",
     "sessions": [
       [28],
-      [29]
+      [29],
+      [105]
     ]
   }, {
     "startTime": "17:10",
     "endTime": "17:50",
     "sessions": [
       [30],
-      [31]
+      [31],
+      [106]
     ]
   }, {
     "startTime": "17:50",
