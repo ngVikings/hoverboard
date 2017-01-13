@@ -1,6 +1,6 @@
 # The program is published!
 
-ngVikings 2017 Conference is excited to announce the program: 21 technical, in-depth sessions about Angular and satellite technologies with the main focus on practical usage. [Check out](http://localhost:8082/schedule/day1) this amazing set of talks by the speakers famous for their contributions to Angular ecosystem.
+ngVikings 2017 Conference is excited to announce the program: 21 technical, in-depth sessions about Angular and satellite technologies with the main focus on practical usage. [Check out](/schedule/day1) this amazing set of talks by the speakers famous for their contributions to Angular ecosystem.
 
 ## One more BONUS for our attendees!
 
