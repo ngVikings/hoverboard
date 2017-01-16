@@ -403,14 +403,14 @@
   "23": {
     "id": 23,
     "featured": true,
-    "name": "Ryan Chenkie",
-    "title": "Full-stack JavaScript developer",
-    "company": "Auth0",
+    "name": "Simona Cotin",
+    "title": "Full-stack Engineer",
+    "company": "Openet",
     "companyLogo": "",
-    "country": "Canada",
-    "photoUrl": "/images/people/RyanChenkie.jpg",
-    "shortBio": "Ryan is a full-stack JavaScript developer and works mostly with Angular and Node. He's a Product Owner at Auth0 and also runs Angularcasts.io, a screencast site offering end-to-end Angular and JavaScript training. Ryan has a keen interest in authentication and identity in modern apps and loves contributing to the community with tutorial content and libraries such as angular2-jwt.",
-    "bio": "Ryan is a full-stack JavaScript developer and works mostly with Angular and Node. He's a Product Owner at Auth0 and also runs Angularcasts.io, a screencast site offering end-to-end Angular and JavaScript training. Ryan has a keen interest in authentication and identity in modern apps and loves contributing to the community with tutorial content and libraries such as angular2-jwt.",
+    "country": "Ireland",
+    "photoUrl": "/images/people/SimonaCotin.jpg",
+    "shortBio": "Simona is a enthusiastic full stack engineer building rich data visualization for network data in Openet. Her interest for Angular led her co-organising the AngularJS meetup in Dublin and she's always passionately talking about women in tech.",
+    "bio": "Simona is a enthusiastic full stack engineer building rich data visualization for network data in Openet. Her interest for Angular led her co-organising the AngularJS meetup in Dublin and she's always passionately talking about women in tech.",
     "tags": [
       "Authentication",
       "JWT",
@@ -419,17 +419,13 @@
     ],
     "badges": [],
     "socials": [{
-      "icon": "website",
-      "name": "Website",
-      "link": "https://angularcasts.io"
-    }, {
       "icon": "twitter",
       "name": "Twitter",
-      "link": "https://twitter.com/ryanchenkie"
+      "link": "https://twitter.com/simona_cotin"
     }, {
       "icon": "github",
       "name": "GitHub",
-      "link": "https://github.com/chenkie"
+      "link": "https://github.com/simonaco"
     }]
   },
 

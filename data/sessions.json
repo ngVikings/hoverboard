@@ -290,8 +290,8 @@
 
   "23": {
     "id": 23,
-    "title": "Angular's User Authentication Tool Belt",
-    "description": "User authentication is necessary for any non-trivial application, but implementing it in a single page app can be a pain. Not only are there a bunch of moving parts on the front end that we need to account for, but we can also get hampered down when we try to use traditional session-based methods of authentication. Luckily for us, Angular 2 comes with a bunch of features designed to make things like route access control and asynchronously loading protected routes really simple. When we pair these features with a modern authentication spec like JSON Web Token, we can lock down our apps in a snap. In this session, we’ll explore how to implement authentication in an Angular app. You’ll come away knowing how the important pieces fit together and how Angular takes care of a lot of the heavy lifting for us.",
+    "title": "Authenticate your users with Angular",
+    "description": "Modern applications have shifted their focus on the USER. On one hand the more personalized your application is the higher chances are your users are going to enjoy the experience of navigating it. The first step of getting to know your users is enabling them to save their preferences through a seamless sign up and login experience. More importantly, users need to feel secure and safe while using your app. As basic as it sounds, authentication and authorization have always been a complex task which many of us have struggled with but have had a huge impact on our users' experience. This talk is going to walk you through some of the best practices for authentication and session management in Angular apps and the various OAuth implementations. Finally, we're going to learn about some of the most common web security vulnerabilities and how to avoid them.",
     "speakers": [
       23
     ],
