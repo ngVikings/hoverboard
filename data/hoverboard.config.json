@@ -3,7 +3,7 @@
     "home": {
       "headerSettings": {
         "backgroundColor": "#012250",
-        "backgroundImage": "/images/backgrounds/home.jpg",
+        "backgroundImage": "/images/backgrounds/home-angular.jpg",
         "fontColor": "#fff",
         "tabBarColor": "#fff",
         "video": {
@@ -193,7 +193,7 @@
       "caption": "sessions"
     },
     {
-      "counter": 6,
+      "counter": 7,
       "caption": "workshops"
     }
   ],

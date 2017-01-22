@@ -55,11 +55,20 @@
     },
     {
       "id": "angular",
-      "title": "Angular. Just Angular.",
+      "title": "Angular. It's Just Angular.",
       "posted": "2016-12-31",
       "primaryColor": "#012250",
       "secondaryColor": "#012250",
       "image": "images/backgrounds/speakers.jpg",
       "brief": "Let the last day of 2016 be the last day of annoying explicit \"2\" version mentioning in talks and workshop titles. Starting from NOW: we say \"Angular\" - we mean Angular \"2\" or later. Everywhere on this website."
+    },
+    {
+      "id": "office-hours",
+      "title": "Office Hours",
+      "posted": "2017-01-18",
+      "primaryColor": "#012250",
+      "secondaryColor": "#012250",
+      "image": "images/backgrounds/team.jpg",
+      "brief": "Unique possibility to ask the questions and get consulted by our speakers in a quiet and friendly environment."
     }
 ]

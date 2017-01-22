@@ -7,8 +7,8 @@
   },
   "6": {
     "id": 6,
-    "title": "Afterparty & Networking",
-    "description": "Afterparty is a great time to have some fun and meet new people",
+    "title": "Party & Networking",
+    "description": "Party is a great time to have some fun and meet new people!",
     "image": "/images/backgrounds/party.jpg"
   },
   "2": {
@@ -37,8 +37,8 @@
   },
   "1": {
     "id": 1,
-    "title": "Registration & morning Coffee",
-    "description": "Get your badge, coffee, enjoy talking with tech edicts around",
+    "title": "Registration & Breakfast",
+    "description": "Get your badge, coffee, snack, enjoy talking with tech edicts around",
     "image": "/images/backgrounds/registration.jpg"
   },
 

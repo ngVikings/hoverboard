@@ -1,4 +1,4 @@
-# Angular. Just Angular.
+# Angular. It's Just Angular.
 
 Let the last day of 2016 be the last day of annoying explicit "2" version mentioning in talks and workshop titles. Starting from NOW: we say "Angular" - we mean Angular "2" or later. Everywhere on this website.
 
