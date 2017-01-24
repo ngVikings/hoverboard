@@ -370,7 +370,7 @@
     ],
     "tags": [
       "Lifecycle Hooks",
-
+      "Performance",
       "Angular"
     ]
   },
@@ -419,8 +419,8 @@
 
   "32": {
     "id": 32,
-    "title": "Keynote: Apps In The Future",
-    "description": "",
+    "title": "Keynote: A Future Without Browsers",
+    "description": "I’ll take you through a journey of the web browser history, and provide with a perspective on how the web apps of the future will look like in a world, that's increasingly dominated by mobile devices, and constrained by new challenges such as limited power, battery and connectivity. The web and the apps you build today will continue to be relevant, but maybe in a different way from what you expect today. Who knows, maybe browser you use today won’t exist in the future.",
     "speakers": [
       32
     ],

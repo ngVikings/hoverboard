@@ -7,62 +7,70 @@
     "title": "Room: Valhalla"
   }, {
     "title": "Room: Midgard"
+  }, {
+    "title": "Main Hall"
   }],
   "timeslots": [{
     "startTime": "08:00",
-    "endTime": "09:00",
+    "endTime": "08:55",
     "sessions": [
+      [],
+      [],
+      [],
       [1]
     ]
   }, {
     "startTime": "09:00",
-    "endTime": "09:15",
+    "endTime": "09:10",
     "sessions": [
       [2]
     ]
   }, {
     "startTime": "09:15",
-    "endTime": "09:50",
+    "endTime": "09:45",
     "sessions": [
       [32]
     ]
   }, {
     "startTime": "09:50",
-    "endTime": "10:25",
+    "endTime": "10:20",
     "sessions": [
       [16],
       [21]
     ]
   }, {
     "startTime": "10:25",
-    "endTime": "11:00",
+    "endTime": "10:55",
     "sessions": [
       [12],
       [19]
     ]
   }, {
     "startTime": "11:00",
-    "endTime": "11:35",
+    "endTime": "11:30",
     "sessions": [
       [13],
       [18]
     ]
   }, {
     "startTime": "11:35",
-    "endTime": "12:10",
+    "endTime": "12:05",
     "sessions": [
       [15],
       [14]
     ]
   }, {
     "startTime": "12:10",
-    "endTime": "13:40",
+    "endTime": "13:35",
     "sessions": [
+      [],
+      [],
+      [],
       [3]
     ]
   }, {
     "startTime": "13:40",
-    "endTime": "14:15",
+    "endTime": "14:10",
     "sessions": [
       [17],
       [23],
@@ -70,7 +78,7 @@
     ]
   }, {
     "startTime": "14:15",
-    "endTime": "14:50",
+    "endTime": "14:45",
     "sessions": [
       [11],
       [22],
@@ -78,7 +86,7 @@
     ]
   }, {
     "startTime": "14:50",
-    "endTime": "15:25",
+    "endTime": "15:20",
     "sessions": [
       [24],
       [25],
@@ -86,13 +94,16 @@
     ]
   }, {
     "startTime": "15:25",
-    "endTime": "16:00",
+    "endTime": "15:55",
     "sessions": [
+      [],
+      [],
+      [],
       [4]
     ]
   }, {
     "startTime": "16:00",
-    "endTime": "16:35",
+    "endTime": "16:30",
     "sessions": [
       [27],
       [26],
@@ -100,7 +111,7 @@
     ]
   }, {
     "startTime": "16:35",
-    "endTime": "17:10",
+    "endTime": "17:05",
     "sessions": [
       [28],
       [29],
@@ -108,22 +119,25 @@
     ]
   }, {
     "startTime": "17:10",
-    "endTime": "17:50",
+    "endTime": "17:40",
     "sessions": [
       [31],
       [30],
       [106]
     ]
   }, {
-    "startTime": "17:50",
-    "endTime": "18:00",
+    "startTime": "17:45",
+    "endTime": "17:55",
     "sessions": [
       [5]
     ]
   }, {
     "startTime": "18:00",
-    "endTime": "19:00",
+    "endTime": "22:00",
     "sessions": [
+      [],
+      [],
+      [],
       [6]
     ]
   }]
@@ -144,12 +158,21 @@
     "title": "Workshops room #6"
   }, {
     "title": "Workshops room #7"
+  }, {
+    "title": "Main Hall"
   }],
   "timeslots": [{
-    "startTime": "09:30",
-    "endTime": "10:00",
+    "startTime": "09:00",
+    "endTime": "09:55",
     "sessions": [
-      [7]
+      [],
+      [],
+      [],
+      [],
+      [],
+      [],
+
+      [1]
     ]
   }, {
     "startTime": "10:00",
