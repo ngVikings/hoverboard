@@ -9,7 +9,6 @@
 
 <link rel="import" href="../behaviors/utils-behavior.html">
 
-
 <dom-module id="schedule-day">
 
   <template>
@@ -23,7 +22,6 @@
       .timeslot {
         margin-top: 40px;
       }
-
       .timeslot:last-of-type {
         margin-bottom: 64px;
       }
@@ -68,11 +66,9 @@
       .sub-session[with-background] .overlay {
         background: rgba(0, 0, 0, 0.4);
       }
-
       .sub-session:hover {
         @apply(--shadow-elevation-4dp);
       }
-
       .sessions-wrapper[vertical] .session:not(:first-of-type) .sub-session,
       .sub-session:not(:first-of-type) {
         margin-top: 16px;
@@ -100,15 +96,14 @@
         color: var(--secondary-text-color);
       }
 
-      .sub-session[with-background] .tags,
-      .sub-session[with-background] .session-meta {
+      .sub-session[with-background] .session-meta,
+      .sub-session[with-background] .tags {
         color: #fff;
       }
 
       .session-meta li {
         display: inline-block;
       }
-
       .session-meta li:not(:last-of-type)::after {
         margin-left: 5px;
         content: "/";
@@ -123,11 +118,9 @@
         transition: opacity 0.28s cubic-bezier(0.4, 0, 0.2, 1);
         opacity: 0.85;
       }
-
       .sub-session:hover .image-overlay {
         opacity: 1;
       }
-
       .sub-session[with-background] .image-overlay,
       .sub-session[with-background]:hover .image-overlay {
         opacity: 0;
@@ -144,7 +137,6 @@
         --iron-icon-height: 14px;
         margin-right: 8px;
       }
-
       .speaker:not(:last-of-type) {
         margin-bottom: 8px;
       }
@@ -162,6 +154,22 @@
       .sessions-wrapper {
         flex-wrap: wrap;
       }
+
+      .speaker-name-officehours {
+        z-index: 2;
+        font-size: 13px;
+        color: #fff;
+      }
+
+      .speaker-name-officehours::after {
+        content: ',';
+
+      }
+      .speaker-name-officehours:last-of-type::after {
+        content: '';
+
+      }
+
     </style>
 
     <template is="dom-repeat" items="[[day.timeslots]]" as="timeslot">
@@ -172,12 +180,10 @@
           <span class="minutes">[[_splitText(timeslot.startTime, ':', 1)]]</span>
         </div>
 
-        <div class="sessions-wrapper" layout vertical$="{{app.isPhoneSize}}" horizontal$="{{!app.isPhoneSize}}"
-             flex$="{{!app.isPhoneSize}}">
+        <div class="sessions-wrapper" layout vertical$="{{app.isPhoneSize}}" horizontal$="{{!app.isPhoneSize}}" flex$="{{!app.isPhoneSize}}">
           <template is="dom-repeat" items="[[timeslot.sessions]]" as="session">
             <div class="session" layout vertical flex$="{{!app.isPhoneSize}}">
-              <template is="dom-repeat" items="[[session]]" as="subSession"
-                        filter="{{_filterSession(filters.splices)}}">
+              <template is="dom-repeat" items="[[session]]" as="subSession" filter="{{_filterSession(filters.splices)}}">
 
                 <a href$="/schedule/[[name]]?sessionId=[[subSession.id]]" class="sub-session" with-background$="[[subSession.image]]" layout flex-auto>
                   <paper-card layout flex-auto>
@@ -212,20 +218,32 @@
 
                       <template is="dom-if" if="[[subSession.speakers]]">
                         <div class="speaker-block" relative>
-                          <div class="image-overlay"
-                               style$="background-color: [[_getCustomStyleValue(subSession.mainTag)]]" fit></div>
+                          <div class="image-overlay" style$="background-color: [[subSession.track.color]]" fit></div>
                           <template is="dom-repeat" items="[[subSession.speakers]]" as="speaker">
-                            <div class="speaker" layout horizontal center>
-                              <iron-icon icon="account"></iron-icon>
-                              <div class="person-detail" flex>
-                                <span class="speaker-name">[[speaker.name]]</span>
-                                <div class="speaker-title">
-                                  [[speaker.company]] / [[speaker.country]]
+
+                            <template is="dom-if" if="{{!_isOfficeHours(subSession.mainTag)}}">
+                              <div class="speaker" layout horizontal center>
+
+                                <iron-icon icon="account"></iron-icon>
+
+                                <div class="person-detail" flex>
+                                  <span class="speaker-name">[[speaker.name]]</span>
+                                  <div class="speaker-title">
+                                    [[speaker.company]] / [[speaker.country]]
+                                  </div>
                                 </div>
+
                               </div>
-                            </div>
+                            </template>
+
+                            <template is="dom-if" if="{{_isOfficeHours(subSession.mainTag)}}">
+
+                              <span class="speaker-name-officehours" relative>[[speaker.name]]</span>
+
+                            </template>
+
                           </template>
-                        </div>
+                        </span>
                       </template>
 
                     </div>
@@ -243,16 +261,19 @@
   </template>
 
   <script>
-    (function () {
+    (function() {
       'use strict';
 
       Polymer({
 
+        _isOfficeHours: function(mainTag) {
+          return mainTag === 'Office Hours';
+        },
+
         is: 'schedule-day',
 
         behaviors: [
-          Polymer.NeonSharedElementAnimatableBehavior,
-          HOVERBOARD.UtilsBehavior
+          Polymer.NeonSharedElementAnimatableBehavior, HOVERBOARD.UtilsBehavior
         ],
 
         properties: {
@@ -271,42 +292,47 @@
 
           animationConfig: {
             type: Object,
-            value: function () {
+            value: function() {
               return {
-                'entry': [{
-                  name: 'fade-in-animation',
-                  animation: 'fade-in-animation',
-                  node: this,
-                  timing: {
-                    delay: 500
+                'entry': [
+                  {
+                    name: 'fade-in-animation',
+                    animation: 'fade-in-animation',
+                    node: this,
+                    timing: {
+                      delay: 500
+                    }
                   }
-                }],
-                'exit': [{
-                  name: 'fade-out-animation',
-                  animation: 'fade-out-animation',
-                  node: this
-                }]
+                ],
+                'exit': [
+                  {
+                    name: 'fade-out-animation',
+                    animation: 'fade-out-animation',
+                    node: this
+                  }
+                ]
               };
             }
           }
         },
 
-        _splitText: function (text, divider, index) {
+        _splitText: function(text, divider, index) {
           return text.split(divider)[index];
         },
 
-        _getCustomStyleValue: function (value) {
+        _getCustomStyleValue: function(value) {
           return this.getComputedStyleValue('--' + this._generateClass(value));
         },
 
-        _joinArray: function (array) {
+        _joinArray: function(array) {
           return array.join(', ');
         },
 
-        _filterSession: function () {
+        _filterSession: function() {
           var filters = this.filters || [];
-          if (!filters.length) return false;
-          return function (session) {
+          if (!filters.length)
+            return false;
+          return function(session) {
             return filters.indexOf(session.mainTag) > -1;
           };
         }

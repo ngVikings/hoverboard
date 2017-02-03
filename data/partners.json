@@ -76,6 +76,11 @@
         "name": "Pluralsight",
         "url": "https://www.pluralsight.com/",
         "logoUrl": "../images/logos/pluralsight.png"
+      },
+      {
+        "name": "Syncfusion",
+        "url": "http://www.syncfusion.com?source=ngvikings2017",
+        "logoUrl": "../images/logos/syncfusion.png"
       }
     ]
   },

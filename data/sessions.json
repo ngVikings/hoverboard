@@ -76,7 +76,7 @@
     "title": "Ionic 2 with Firebase",
     "description": "In this workshop we start with setting up Ionic 2 and Firebase. First of all we'll guide you through the basics of the Ionic CLI, Firebase configuration and documentation available. We'll learn how to use the ionic starters, setup and use basic components and building the application. We'll move from the idea of mobile apps to progressive web apps and how we can implement that idea with Ionic2 & Firebase. Identify the requirements to get service workers and 'Add to home screen' working and how to set this up. Last but not least we'll see how we can make our PWA realtime and work offline with Firebase.<br /><b><a href='https://ti.to/ngvikings/2017/with/zvkdnmxrw-k'>Get the ticket</a></b>",
     "speakers": [
-      84
+      84, 89
     ],
     "tags": [
       "Progressive Web Apps",
@@ -450,13 +450,13 @@
 
   "101": {
     "id": 101,
-    "title": "Office Hours: Meet The Speakers",
+    "title": "Office Hours: Meet The Heroes",
     "description": "Ask your questions directly to the speaker in a quiet, friendly environment.",
     "speakers": [
       28, 29, 30, 31, 32
     ],
     "tags": [
-
+"Office Hours",
 
       "Angular"
     ]
@@ -464,27 +464,27 @@
 
   "102": {
     "id": 102,
-    "title": "Office Hours: Meet The Speakers",
+    "title": "Office Hours: Meet The Heroes",
     "description": "Ask your questions directly to the speaker in a quiet, friendly environment.",
     "speakers": [
-      16, 21, 12, 19, 20
+      16, 21, 12, 19, 20, 34
     ],
     "tags": [
 
-
+"Office Hours",
       "Angular"
     ]
   },
 
   "103": {
     "id": 103,
-    "title": "Office Hours: Meet The Speakers",
+    "title": "Office Hours: Meet The Heroes",
     "description": "Ask your questions directly to the speaker in a quiet, friendly environment.",
     "speakers": [
-      13, 18, 14, 15, 84
+      13, 18, 14, 15, 84, 89
     ],
     "tags": [
-
+"Office Hours",
 
       "Angular"
     ]
@@ -492,13 +492,13 @@
 
   "104": {
     "id": 104,
-    "title": "Office Hours: Meet The Speakers",
+    "title": "Office Hours: Meet The Heroes",
     "description": "Ask your questions directly to the speaker in a quiet, friendly environment.",
     "speakers": [
       22, 23, 11, 17, 88
     ],
     "tags": [
-
+"Office Hours",
 
       "Angular"
     ]
@@ -506,13 +506,13 @@
 
   "105": {
     "id": 105,
-    "title": "Office Hours: Meet The Speakers",
+    "title": "Office Hours: Meet The Heroes",
     "description": "Ask your questions directly to the speaker in a quiet, friendly environment.",
     "speakers": [
       24, 25, 26, 27, 86
     ],
     "tags": [
-
+"Office Hours",
 
       "Angular"
     ]
@@ -520,13 +520,13 @@
 
   "106": {
     "id": 106,
-    "title": "Office Hours: Meet The Speakers",
+    "title": "Office Hours: Meet The Heroes",
     "description": "Ask your questions directly to the speaker in a quiet, friendly environment.",
     "speakers": [
       87, 82, 83, 33, 85
     ],
     "tags": [
-
+"Office Hours",
 
       "Angular"
     ]

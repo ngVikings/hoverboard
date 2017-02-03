@@ -2,13 +2,18 @@
   "date": "2017-02-11",
   "dateReadable": "February 11 - Conference Day",
   "tracks": [{
-    "title": "Room: Bifrost"
+    "title": "Room: Bifrost",
+    "color": "#1851b1"
+
   }, {
-    "title": "Room: Valhalla"
+    "title": "Room: Valhalla",
+    "color": "#c30e2e"
   }, {
-    "title": "Room: Midgard"
+    "title": "Room: Midgard",
+    "color": "#e45d03"
   }, {
-    "title": "Main Hall"
+    "title": "Main Hall",
+    "color": "#3d9845"
   }],
   "timeslots": [{
     "startTime": "08:00",
@@ -145,21 +150,29 @@
   "date": "2017-02-12",
   "dateReadable": "February 12 - Workshops Day",
   "tracks": [{
-    "title": "Workshops room #1"
+    "title": "Workshops room #1 - FULLY BOOKED",
+    "color": "#1851b1"
   }, {
-    "title": "Workshops room #2"
+    "title": "Workshops room #2 - FULLY BOOKED",
+    "color": "#1851b1"
   }, {
-    "title": "Workshops room #3"
+    "title": "Workshops room #3 - FULLY BOOKED",
+    "color": "#1851b1"
   }, {
-    "title": "Workshops room #4"
+    "title": "Workshops room #4",
+    "color": "#1851b1"
   }, {
-    "title": "Workshops room #5"
+    "title": "Workshops room #5",
+    "color": "#1851b1"
   }, {
-    "title": "Workshops room #6"
+    "title": "Workshops room #6 - FULLY BOOKED",
+    "color": "#1851b1"
   }, {
-    "title": "Workshops room #7"
+    "title": "Workshops room #7 - FULLY BOOKED",
+    "color": "#1851b1"
   }, {
-    "title": "Main Hall"
+    "title": "Main Hall",
+    "color": "#3d9845"
   }],
   "timeslots": [{
     "startTime": "09:00",

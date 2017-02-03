@@ -70,5 +70,14 @@
       "secondaryColor": "#012250",
       "image": "images/backgrounds/team.jpg",
       "brief": "Unique possibility to ask the questions and get consulted by our speakers in a quiet and friendly environment."
+    },
+    {
+      "id": "scholarship",
+      "title": "Scholarship Programme",
+      "posted": "2017-02-02",
+      "primaryColor": "#012250",
+      "secondaryColor": "#012250",
+      "image": "images/backgrounds/speakers.jpg",
+      "brief": "ngVikings is an event organized by and for the community, and it’s important to us that all members of the community should be included, also those who would normally be unable to attend for financial reasons."
     }
 ]

@@ -709,7 +709,7 @@
     "shortBio": "Kristiyan is a front-end developer, passionate open-source contributor and a core team member on Angular Material.",
     "bio": "Kristiyan is a front-end developer, passionate open-source contributor and a core team member on Angular Material.",
     "tags": [
-      "Angular Material",
+      "Office Hours",
 
       "Angular"
     ],
@@ -718,6 +718,38 @@
       "icon": "github",
       "name": "GitHub",
       "link": "https://github.com/crisbeto"
+    }]
+  },
+
+  "34": {
+    "id": 34,
+    "featured": true,
+    "name": "Pascal Precht",
+    "title": "Front-End Engineer",
+    "company": "Thoughtram",
+    "companyLogo": "",
+    "country": "Germany",
+    "photoUrl": "/images/people/PascalPrecht.jpg",
+    "shortBio": "Pascal is a front-end engineer and a Angular Developer Expert nominated by Google. He created the angular-translate module, and an Angular contributor.",
+    "bio": "Pascal is a front-end engineer and a Angular Developer Expert nominated by Google. He created the angular-translate module, and an Angular contributor.",
+    "tags": [
+      "Office Hours",
+
+      "Angular"
+    ],
+    "badges": [{
+      "name": "GDE",
+      "description": "Google Developer Expert",
+      "link": "https://developers.google.com/experts/"
+    }],
+    "socials": [{
+      "icon": "twitter",
+      "name": "Twitter",
+      "link": "https://twitter.com/PascalPrecht"
+    }, {
+      "icon": "github",
+      "name": "GitHub",
+      "link": "https://github.com/PascalPrecht"
     }]
   },
 
@@ -947,6 +979,36 @@
       "icon": "github",
       "name": "GitHub",
       "link": "https://github.com/shmool"
+    }]
+  },
+
+  "89": {
+    "id": 89,
+    "featured": true,
+    "name": "Sam Verschueren",
+    "title": "Software Engineer",
+    "company": "Pridiktiv.care",
+    "companyLogo": "",
+    "country": "Belgium",
+    "photoUrl": "/images/people/SamVerschueren.jpg",
+    "shortBio": "Sam is a software engineer passionated about Node.js, Angular and open source. He likes to create tools that boosts his daily productivity and improves his workflow.",
+    "bio": "Sam is a software engineer passionated about Node.js, Angular and open source. He likes to create tools that boosts his daily productivity and improves his workflow.",
+    "tags": [
+      "Progressive Web Apps",
+      "Firebase",
+      "Ionic 2",
+
+      "Angular"
+    ],
+    "badges": [],
+    "socials": [{
+      "icon": "twitter",
+      "name": "Twitter",
+      "link": "https://twitter.com/SamVerschueren"
+    }, {
+      "icon": "github",
+      "name": "GitHub",
+      "link": "https://github.com/SamVerschueren"
     }]
   }
 
