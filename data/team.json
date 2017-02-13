@@ -200,8 +200,29 @@
       },
       {
         "name": "Jaime Gonzalez Garcia",
-        "photoUrl": "/images/people/anonymous.png",
-        "socials": [],
+        "photoUrl": "https://pbs.twimg.com/profile_images/783198224274296832/feey71di.jpg",
+        "socials": [
+          {
+            "icon": "gplus",
+            "link": "https://plus.google.com/+JaimeGonz%C3%A1lezGarc%C3%ADa",
+            "name": "Google+"
+          },
+          {
+            "icon": "facebook",
+            "link": "https://www.facebook.com/jaime.g.garcia",
+            "name": "Facebook"
+          },
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/vintharas",
+            "name": "Twitter"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/vintharas",
+            "name": "GitHub"
+          }
+        ],
         "title": "Contributor"
       },
       {
