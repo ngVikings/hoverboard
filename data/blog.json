@@ -79,5 +79,23 @@
       "secondaryColor": "#012250",
       "image": "images/backgrounds/speakers.jpg",
       "brief": "ngVikings is an event organized by and for the community, and it’s important to us that all members of the community should be included, also those who would normally be unable to attend for financial reasons."
+    },
+    {
+      "id": "get-ready",
+      "title": "Get Ready for ngVikings 2017!",
+      "posted": "2017-02-09",
+      "primaryColor": "#012250",
+      "secondaryColor": "#012250",
+      "image": "images/backgrounds/team.jpg",
+      "brief": "Please follow our twitter @ngVikingsConf for all the real-time updates and read carefully the practical information below."
+    },
+    {
+      "id": "thank-you",
+      "title": "Thank You!",
+      "posted": "2017-02-18",
+      "primaryColor": "#012250",
+      "secondaryColor": "#012250",
+      "image": "images/backgrounds/speakers.jpg",
+      "brief": "ngVikings 2017 is over. It's been two amazing days and your presence helped make it awesome!"
     }
 ]

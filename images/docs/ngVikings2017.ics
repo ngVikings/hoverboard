@@ -1,0 +1,247 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ngVikings 2017
+X-WR-TIMEZONE:Europe/Copenhagen
+X-WR-CALDESC:ngVikings 2017 is a web front-end developers conference to tak
+ e place in Copenhagen (Denmark) including:\n- Conference Day (February 11th
+ ): more than 20 talks split into 2 tracks\n- Workshops Day (February 12th):
+  a set of in-depth hands-on full-day sessions.\nThe talks and workshops wil
+ l be mostly about Angular (with the primary focus on Angular 2 and later) a
+ nd other technologies related to the Angular framework. ngVikings operates 
+ as a non-profit organization.
+BEGIN:VEVENT
+DTSTART:20170211T080000Z
+DTEND:20170211T084500Z
+DTSTAMP:20170204T001938Z
+UID:glpqo89e9bec2efe964k26ooto@google.com
+CREATED:20170203T225057Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T225536Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Opening and Keynote
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:salnikov@gmail.com
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T111000Z
+DTEND:20170211T123500Z
+DTSTAMP:20170204T001938Z
+UID:unvv460arsqq7tehrjckaehfic@google.com
+CREATED:20170203T225636Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T225650Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lunch
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:salnikov@gmail.com
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T085000Z
+DTEND:20170211T110500Z
+DTSTAMP:20170204T001938Z
+UID:0v1d3sueoiai8dv2kqsni5bdlg@google.com
+CREATED:20170203T225437Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T225846Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Conference Sessions
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T124000Z
+DTEND:20170211T142000Z
+DTSTAMP:20170204T001938Z
+UID:mv228tmqlbfp6blvndninanfho@google.com
+CREATED:20170203T225717Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T230033Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Conference Sessions
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T142500Z
+DTEND:20170211T145500Z
+DTSTAMP:20170204T001938Z
+UID:ruk650opihtt010ugiim7vc9m4@google.com
+CREATED:20170203T225930Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T230042Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coffee Break
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T150000Z
+DTEND:20170211T164000Z
+DTSTAMP:20170204T001938Z
+UID:p5qp1aabe1mie63habccsrq3d4@google.com
+CREATED:20170203T230008Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T230054Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Conference Sessions
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:EMAIL
+DESCRIPTION:This is an event reminder
+SUMMARY:Alarm notification
+ATTENDEE:mailto:salnikov@gmail.com
+TRIGGER:-P0DT0H10M0S
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T164500Z
+DTEND:20170211T210000Z
+DTSTAMP:20170204T001938Z
+UID:560p5e00bub1hvv4oqb5fqlohk@google.com
+CREATED:20170203T230629Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T230658Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Conference Closing and Vikings Party
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170212T080000Z
+DTEND:20170212T085500Z
+DTSTAMP:20170204T001938Z
+UID:922etor2qm93lfugf4h098v4d4@google.com
+CREATED:20170203T230815Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T230827Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Registration and Breakfast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170212T090000Z
+DTEND:20170212T112500Z
+DTSTAMP:20170204T001938Z
+UID:rq8o0ghv590a5i7qkvucrh9qb4@google.com
+CREATED:20170203T230943Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231010Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Workshops
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170212T113000Z
+DTEND:20170212T122500Z
+DTSTAMP:20170204T001938Z
+UID:0a6kqtv4nhrrjdd5ichl089de4@google.com
+CREATED:20170203T231037Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231049Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170212T123000Z
+DTEND:20170212T160000Z
+DTSTAMP:20170204T001938Z
+UID:llt7ijhmakgue8ieaip1og7cog@google.com
+CREATED:20170203T231134Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231155Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Workshops
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T070000Z
+DTEND:20170211T080000Z
+DTSTAMP:20170204T001938Z
+UID:lp34ep8ggsvhpp2dg0p2be9sbs@google.com
+CREATED:20170203T225012Z
+DESCRIPTION:Where is the conference?\nThe conference take place at IT Unive
+ rsity of Copenhagen which is located at Rued Langgaards Vej 7\, 2300 Københ
+ avn S. \nThe easiest way to get to the venue is to take Metro M1. If you ar
+ e staying at ‘AC Hotel Bella Sky’ you can easily go there from Bella Center
+  Station. Take the metro which goes towards Vanløse. The second stop which 
+ is called DR Byen Station is your destination. When you walk down from stat
+ ion walk towards the east side and turn to the left and follow Emil Holms K
+ anal for about 500 m then you will be at the IT-University where the confer
+ ence is taking place. \nOn the way back to the hotel walk back to DR Byen S
+ tation and take the train towards Vestamager Station.\n\nDoes the conferenc
+ e venue have wifi?\nYes. When you arrive at the conference at IT University
+  of Copenhagen you will receive a username and password for accessing the f
+ ree WiFi Network.\n\nDoes the conference venue has car park?\nYes. You have
+  to register and pay for parking at the reception or the Campus Service Ope
+ rations Offices.\n\nPlaces to stay\nVenue is so accessible via Metro (M1) s
+ o if you stay anywhere in walking distance from M1 you can easily commute t
+ o the venue. 
+LAST-MODIFIED:20170203T232429Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Registration and Breakfast
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

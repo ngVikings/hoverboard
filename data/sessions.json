@@ -141,7 +141,11 @@
     "tags": [
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/step-by-step-improving-startup-performance-with-lazy-loading-in-angular-by-manfred-steyer/",
+      "slides": "https://www.softwarearchitekt.at/post/2017/02/11/lazy-loading-like-a-viking-with-angular-slides-and-samples-from-my-talk-at-ngvikings-in-copenhagen-feb-2017.aspx"
+    }
   },
 
   "12": {
@@ -155,7 +159,11 @@
       "CI",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/angular-continuous-integration-by-raul-jimenez/",
+      "slides": "http://slides.com/elecash/angular-continuous-integration#/"
+    }
   },
 
   "13": {
@@ -169,7 +177,11 @@
       "IoT",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/angular-of-things-by-uri-shaked/",
+      "slides": ""
+    }
   },
 
   "14": {
@@ -183,7 +195,11 @@
       "NativeScript",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/sharing-code-between-web-and-native-apps-by-sebastian-witalec/",
+      "slides": ""
+    }
   },
 
   "15": {
@@ -197,7 +213,11 @@
       "Angular Material",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/an-introduction-into-using-angulars-material-design-by-tracy-lee/",
+      "slides": ""
+    }
   },
 
   "16": {
@@ -211,7 +231,11 @@
       "Angular Universal",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/angular-otb-outside-the-browser-by-wassim-chegham/",
+      "slides": ""
+    }
   },
 
   "17": {
@@ -226,7 +250,11 @@
       "AngularFire 2",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/angularfire2-and-you-by-erik-haddad/",
+      "slides": ""
+    }
   },
 
   "18": {
@@ -240,7 +268,11 @@
       "ngForm",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/forms-in-angular-by-alex-lakatos/",
+      "slides": ""
+    }
   },
 
   "19": {
@@ -255,7 +287,11 @@
       "Accessibility",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/developing-accessible-cross-platform-apps-with-nativescript-and-angular-by-daniel-freilling-morten-sjogren/",
+      "slides": "https://docs.google.com/presentation/d/1d3TOps_5nuU4zlm7kK2o7PdLekCGKdQoC8VpsOgJxJE/edit?usp=sharing"
+    }
   },
 
   "21": {
@@ -270,7 +306,11 @@
       "Angular CLI",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/angular-beyond-the-tutorials-with-tests-by-zackary-chapple/",
+      "slides": "https://docs.google.com/presentation/d/1AzS_3D-QxKOcslRgBoDdmFB-FpyKgUs3Sp_NnfI1UR8/edit?usp=sharing"
+    }
   },
 
   "22": {
@@ -285,7 +325,11 @@
       "Ionic 2",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/progressively-mobile-with-ionic-by-sani-yusuf/",
+      "slides": "https://slides.com/saniyusuf/ngvikings-2017"
+    }
   },
 
   "23": {
@@ -300,7 +344,11 @@
       "JWT",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/authenticate-your-users-with-angular-by-simona-cotin/",
+      "slides": "http://bit.ly/2lhtXh1"
+    }
   },
 
   "24": {
@@ -315,7 +363,11 @@
       "Dynamic Components",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/ing-aot-and-dynamic-components-in-angular-by-sean-landsman/",
+      "slides": "https://slack-files.com/files-pri-safe/T2JA0GQHM-F49H325RD/dynamic_angular_components.pdf?c=1487799674-754f5c674486834ae22f35ac8b6d4003314850ed"
+    }
   },
 
   "25": {
@@ -329,7 +381,11 @@
       "Security",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/keeping-untrusted-code-out-of-your-angular-application-by-philippe-de-ryck/",
+      "slides": ""
+    }
   },
 
   "26": {
@@ -344,13 +400,17 @@
       "Optimization",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/building-angular-apps-by-thomas-horvath/",
+      "slides": ""
+    }
   },
 
   "27": {
     "id": 27,
     "title": "Unleash The Power Of Angular With Patterns",
-    "description": "Stop mapping knowledge of one implementation to another, get familiar with ng2 patterns once and use them everywhere. With this knowledge you will be able to understand and use ng2, or any other tools, much faster and effectively.",
+    "description": "Stop mapping knowledge of one implementation to another, get familiar with ng2 patterns once and use them everywhere. With this knowledge you will be able to  and use ng2, or any other tools, much faster and effectively.",
     "speakers": [
       27
     ],
@@ -358,7 +418,11 @@
       "Patterns",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/unleash-the-power-of-angular-with-patterns-by-dmitriy-shekhovtsov/",
+      "slides": ""
+    }
   },
 
   "28": {
@@ -372,21 +436,29 @@
       "Lifecycle Hooks",
       "Performance",
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/the-secret-lifecycle-of-components-by-leonardo-zizzamia/",
+      "slides": ""
+    }
   },
 
   "29": {
     "id": 29,
-    "title": "How Not To Mess-up Your Front End Architecture with Angular",
-    "description": "It’s all too common for front-end developers to start coding an application without a formal architecture in place. Applications lacking a formal architecture are generally tightly coupled, brittle, difficult to change, and without a clear vision or direction. Results? Serious maintainability and extensibility issues. In this talk, I am going to put real world scenario of a large code base and how worst it can get. We will then step back and try to realize what went wrong and how we ended up in this state? Why it became so hard for us to add/subtract features to a set of applications we maintain? We will than discuss what to do next? Should you rewrite the entire front-end piece? Should you try to re-organize your existing architecture? This talk will help you decide and answer these difficult questions on how to get out of a messed-up front-end architecture.",
+    "title": "RxJS - everything is a stream",
+    "description": "Learn the new way to do async in Angular. Why it's better than promises. And most importantly how to accomplish in RxJS what you already can do with promises and beyond.",
     "speakers": [
       29
     ],
     "tags": [
-      "Architecture",
+      "RxJS",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/rxjs-everything-is-a-stream-by-christoffer-noring/",
+      "slides": "https://www.slideshare.net/ChristofferNoring/rxjs-ngvikings"
+    }
   },
 
   "30": {
@@ -400,7 +472,11 @@
       "Angular CLI",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/angular-cli-coding-like-a-viking-by-david-mullerchen/",
+      "slides": "https://slides.com/web-dave/ngvikings-7/"
+    }
   },
 
   "31": {
@@ -414,7 +490,11 @@
       "Webpack",
 
       "Angular"
-    ]
+    ],
+    "materials": {
+      "video": "https://opbeat.com/community/posts/webpack-the-core-concepts-by-sean-larkin/",
+      "slides": ""
+    }
   },
 
   "32": {
@@ -431,7 +511,11 @@
 
       "Angular"
     ],
-    "image": "/images/backgrounds/keynote.jpg"
+    "image": "/images/backgrounds/keynote.jpg",
+    "materials": {
+      "video": "https://opbeat.com/community/posts/keynote-a-future-without-browsers-by-kenneth-auchenberg/",
+      "slides": "https://speakerdeck.com/auchenberg/a-future-without-browsers-february-2017"
+    }
   },
 
   "87": {

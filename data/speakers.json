@@ -577,32 +577,33 @@
   "29": {
     "id": 29,
     "featured": true,
-    "name": "Anas.R.Firdousi",
-    "title": "Front-End Lead",
-    "company": "Apple Inc.",
+    "name": "Christoffer Noring",
+    "title": "Frontend Developer",
+    "company": "OVO Energy",
     "companyLogo": "",
-    "country": "USA",
-    "photoUrl": "/images/people/AnasRFirdousi.jpg",
-    "shortBio": "Anas.R.Firdousi is a active Angular JS community contributor. He has over decade of JavaScript and front-end experience under his belt.  He writes and speaks about ECMA 6/7,  Angular, Reactive Programming and others open source areas. He has lead front end teams at organizations like Apple and PayPal. He is the host of a new type of talk-less-code-more show called Angular Unplugged Show. Anas also heads the Angular Pakistan community and organize Angular meetups in Pakistan.",
-    "bio": "Anas.R.Firdousi is a active Angular JS community contributor. He has over decade of JavaScript and front-end experience under his belt.  He writes and speaks about ECMA 6/7,  Angular, Reactive Programming and others open source areas. He has lead front end teams at organizations like Apple and PayPal. He is the host of a new type of talk-less-code-more show called Angular Unplugged Show. Anas also heads the Angular Pakistan community and organize Angular meetups in Pakistan.",
+    "country": "UK",
+    "photoUrl": "/images/people/ChrisNoring.jpg",
+    "shortBio": "Christoffer is a Google developer expert in Web technologies, focusing on AngularJS. Being a passionate developer, he loves to share knowledge. Together with like-minded programmers he organized a total of 2000 developers and counting, from UK to Sweden. He also lectures a lot, on average 12 times per year + conferences. Christoffer likes working in many layers of the application and finds it equally interesting to think about usability and graphics as he does coding the data layer or any other layer for that matter.",
+    "bio": "Christoffer is a Google developer expert in Web technologies, focusing on AngularJS. Being a passionate developer, he loves to share knowledge. Together with like-minded programmers he organized a total of 2000 developers and counting, from UK to Sweden. He also lectures a lot, on average 12 times per year + conferences. Christoffer likes working in many layers of the application and finds it equally interesting to think about usability and graphics as he does coding the data layer or any other layer for that matter.",
     "tags": [
-      "Architecture",
+      "RxJS",
 
       "Angular"
     ],
-    "badges": [],
+    "badges": [{
+      "name": "GDE",
+      "description": "Google Developer Expert",
+      "link": "https://developers.google.com/experts/"
+    }],
     "socials": [{
-      "icon": "website",
-      "name": "Website",
-      "link": "http://www.anasfirdousi.com"
-    }, {
-      "icon": "twitter",
-      "name": "Twitter",
-      "link": "https://twitter.com/AnasFirdousi"
-    }, {
       "icon": "github",
-      "name": "GitHub",
-      "link": "https://github.com//afirdousi"
+      "link": "https://github.com/softchris",
+      "name": "GitHub"
+    },
+    {
+      "icon": "twitter",
+      "link": "https://twitter.com/chris_noring",
+      "name": "Twitter"
     }]
   },
 

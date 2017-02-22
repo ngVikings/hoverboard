@@ -1,0 +1,75 @@
+# Get Ready for ngVikings 2017!
+ngVikings team is so excited to see you! We work hard on creating an awesome experience for each conference attendee. This blog post is a summary of all the news and useful details. Please read it carefully.
+
+## News
+- The Conference Day is SOLD OUT! You are the lucky one who will take part in this hi-tech Vikings mystery in person :)
+
+- Let's meet even before the event! We open our Slack team and invite everyone to join the discussion. All the organizers and speakers (!) are there! We appreciate if you join #useful channel and help out our international attendees with the city/sightseeings/places info. The registration link: https://ngvikings.herokuapp.com
+
+- We'll post all the real-time event news and updates on Twitter. Please follow: https://twitter.com/ngVikingsConf We appreciate it if you tweet about the conference using @ngVikingsConf for referencing and #ngvikings for tagging.  
+
+## Practical info  
+
+### Schedule
+
+Please, check our schedule for the [Conference Day](https://ngvikings.org/schedule/day1) and the [Workshops Day](https://ngvikings.org/schedule/day2)
+
+Also, we created a [shared calendar](https://calendar.google.com/calendar/embed?src=hksvkputiajdrhdd9jrcrncngo%40group.calendar.google.com&ctz=Europe/Oslo) with all the main events, and [downloadable version](http://bit.ly/vikings-calendar).
+
+### When is the conference?
+We open the doors at 8:00, Saturday, February 11th. We start the conference at 9:00. We kindly ask you to come as early as possible during this hour to avoid the line to the registration desk and enjoy a delicious breakfast.
+
+### Where is the conference?
+The conference will take place at IT University of Copenhagen, which is located at: Rued Langgaards Vej 7, 2300 København S.  
+https://goo.gl/maps/4C6JHhTUTLu
+
+The easiest way to get to the venue is to take Metro M1. If you are staying at ‘AC Hotel Bella Sky’ you can easily go there from Bella Center Station. Take the metro which goes towards Vanløse. The second stop which is called DR Byen Station is your destination. When you walk down from station walk towards the east side and turn to the left and follow Emil Holms Kanal for about 500 m then you will be at the IT-University where the conference is taking place.  
+https://goo.gl/maps/CvxqXbBKzNQ2
+
+On the way back to the hotel walk back to DR Byen Station and take the train towards Vestamager Station.
+
+### How to get to to AC Hotel Bella Sky from Copenhagen Airport?
+AC Hotel Bella Sky, is quite close to the airport. Just 7 mins by Taxi/Uber which are readily accessible from the airport. If you feel more adventures there’s direct access to public transit in the airport. At the airport go to Platform 2 where the regional trains Øressundstog depart towards Helsingør station. Go 2 stops and get of at Ørestad Station. Walk up the stairs to the metro trains. Get the metro train M1 towards Vanløse Station. Go only 1 stop and get of at Bella Center Station. Go towards the west out of the metro station. Go to the right and follow Ørestads Blvd. You will be able to see AC Hotel Bella Sky towards the north east which is the funny building look like some kind of modern version of the Leaning Tower in Pisa. Follow the next crossing street to the left and it will lead you straight to the hotel.  
+https://goo.gl/maps/UrtvukKbcsE2
+
+### Does the conference venue have wifi?
+Yes. When you arrive at the conference venue you will receive a username and password for accessing the free WiFi Network.
+
+### Does the conference venue has the car park?
+Yes. You have to pay for parking at one of the parking machines, the price is 15 DKK per hour.
+
+### Party!
+You are welcome to stay at the venue and join the party right after the sessions and closing words (18:00). The party theme is... Vikings! So bring your helmets, shields and horns. You will receive two special tokens for changing them to the free drinks. Also, there will be a possibility to buy extra drinks. Let's party hard (cool DJ will come!), but please remember: we are in the University, so we have some noise level limitations. The party is over at 22:00, everyone needs some rest before the full-day workshops :)
+
+### Workshops
+You have to have a separate badge for the workshop (you will get it during the registration on the Conference Day or the Workshop Day). We open the doors at 9:00, Sunday, February 12th. We start the workshops at 10:00. Please, do not forget to bring your own laptop and a charger. You will receive a required setup instructions in a separate email soon.  
+
+## Awesomeness  
+
+### ngVikings App
+Thanks to our friends, Ionic 2 workshop trainers Sam Vloeberghs and Sam Verschueren, we have an awesome web/mobile app for you to create your own agenda! This is a very useful tool, save the link [app.ngvikings.org](https://app.ngvikings.org). Of course, it's built using Ionic :) Do you have some tech questions? Catch Sam&Sam during their Office Hours!
+
+### Livestream
+We are checking the possibility to livestream the conference tracks. If we can make it - the link will be posted on twitter @ngVikingsConf and sent via mailing list. It would be great if you recommend to your friends and colleagues who can't attend the event in person to follow/subscribe.
+
+## Important
+We are an open, respectful, and inclusive community. That means jerky behavior isn’t allowed at our event. Please, read and follow our [Code of Conduct](https://ngvikings.org/cod/). If you feel uncomfortable because of someone's behavior - contact someone from the crew immediately.
+
+## Crew
+We, ngVikings organizers and volunteers, will wear the white ngVikings t-shirts. If you have any questions, issues, contact anyone of us, we'll do our best to fix everything.
+
+## Direct contact information
+We read and react to the every email sent to contact@ngvikings.org. If you need an immediate reaction, feel free to call us:
+
+- Maxim Salnikov +47 90 170 176
+- Shahrzad (Sherry) Aziminia +45 41 11 98 15
+- Morten Kirstein +45 31 69 89 62
+
+## Let's have much fun at ngVikings all together!
+
+&nbsp;
+* * *
+&nbsp;
+
+## Any questions?
+Email organizers at [contact@ngvikings.org](mailto:contact@ngvikings.org)

@@ -1,0 +1,277 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:ngVikings 2017 Speakers
+X-WR-TIMEZONE:Europe/Copenhagen
+X-WR-CALDESC:
+BEGIN:VEVENT
+DTSTART:20170212T113000Z
+DTEND:20170212T122500Z
+DTSTAMP:20170204T002016Z
+UID:0a6kqtv4nhrrjdd5ichl089de4@google.com
+CREATED:20170203T231319Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231628Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T085000Z
+DTEND:20170211T110500Z
+DTSTAMP:20170204T002016Z
+UID:0v1d3sueoiai8dv2kqsni5bdlg@google.com
+CREATED:20170203T231319Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231628Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Conference Sessions
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T164500Z
+DTEND:20170211T210000Z
+DTSTAMP:20170204T002016Z
+UID:560p5e00bub1hvv4oqb5fqlohk@google.com
+CREATED:20170203T231319Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231628Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Conference Closing and Vikings Party
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170212T080000Z
+DTEND:20170212T085500Z
+DTSTAMP:20170204T002016Z
+UID:922etor2qm93lfugf4h098v4d4@google.com
+CREATED:20170203T231319Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231628Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Registration and Breakfast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T080000Z
+DTEND:20170211T084500Z
+DTSTAMP:20170204T002016Z
+UID:glpqo89e9bec2efe964k26ooto@google.com
+CREATED:20170203T231319Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231628Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Opening and Keynote
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170212T123000Z
+DTEND:20170212T160000Z
+DTSTAMP:20170204T002016Z
+UID:llt7ijhmakgue8ieaip1og7cog@google.com
+CREATED:20170203T231319Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231628Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Workshops
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T124000Z
+DTEND:20170211T142000Z
+DTSTAMP:20170204T002016Z
+UID:mv228tmqlbfp6blvndninanfho@google.com
+CREATED:20170203T231319Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231628Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Conference Sessions
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T150000Z
+DTEND:20170211T164000Z
+DTSTAMP:20170204T002016Z
+UID:p5qp1aabe1mie63habccsrq3d4@google.com
+CREATED:20170203T231319Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231628Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Conference Sessions
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170212T090000Z
+DTEND:20170212T112500Z
+DTSTAMP:20170204T002016Z
+UID:rq8o0ghv590a5i7qkvucrh9qb4@google.com
+CREATED:20170203T231319Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231628Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Workshops
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T142500Z
+DTEND:20170211T145500Z
+DTSTAMP:20170204T002016Z
+UID:ruk650opihtt010ugiim7vc9m4@google.com
+CREATED:20170203T231319Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231628Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Coffee Break
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T111000Z
+DTEND:20170211T123500Z
+DTSTAMP:20170204T002016Z
+UID:unvv460arsqq7tehrjckaehfic@google.com
+CREATED:20170203T231319Z
+DESCRIPTION:
+LAST-MODIFIED:20170203T231628Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Lunch
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170210T170000Z
+DTEND:20170210T191500Z
+DTSTAMP:20170204T002016Z
+UID:aug5nk6mornel2m68272qngcjk@google.com
+CREATED:20170203T231800Z
+DESCRIPTION:The Restaurant: VAKST\nSankt Peders Stræde 34 · 1453 København 
+ K · +45 3841 2727 · vaekst@cofoco.dk \nhttp://hostvakst.dk/vakst/\n\nHow to
+  get to Väkst restaurant from AC Hotel Bella Sky? \nGo to Bella Center Stat
+ ion and get the M1 Metro towards Vanløse Station. Go 6 stops and get off at
+  Nørreport Station. Go up from the station and follow the street Nørre Vold
+ gade towards the southeast for around 500 m. Then turn left along Teglgårds
+ træde and go to the right at the next crossing street Sankt Peders Stræde a
+ t the cool shop Fantask (where you can find rare cartoons and roleplaying g
+ ames). Around 100 m down the street Restaurant Väkst is to your right.\n\nH
+ ow to get to Väkst restaurant from Copenhagen Airport?\nGo to the metro tra
+ in and go with M2 metro towards Vanløse Station. Go 8 Stops (15 min.) and g
+ et of at Nørreport Station. Go up from the station and follow the street Nø
+ rre Voldgade towards the southeast for around 500 m. Then turn left along T
+ eglgårdstræde and go to the right at the next crossing street Sankt Peders 
+ Stræde at the cool shop Fantask (where you can find rare cartoons and rolep
+ laying games). Around 100 m down the street Restaurant Väkst is to your rig
+ ht.\n
+LAST-MODIFIED:20170203T232303Z
+LOCATION:Väkst\, Sankt Peders Stræde 34\, 1453 København K\, Denmark
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Speaker Dinner
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170211T070000Z
+DTEND:20170211T080000Z
+DTSTAMP:20170204T002016Z
+UID:lp34ep8ggsvhpp2dg0p2be9sbs@google.com
+CREATED:20170203T231319Z
+DESCRIPTION:Where is the conference?\nThe conference take place at IT Unive
+ rsity of Copenhagen which is located at Rued Langgaards Vej 7\, 2300 Københ
+ avn S. \nThe easiest way to get to the venue is to take Metro M1. If you ar
+ e staying at ‘AC Hotel Bella Sky’ you can easily go there from Bella Center
+  Station. Take the metro which goes towards Vanløse. The second stop which 
+ is called DR Byen Station is your destination. When you walk down from stat
+ ion walk towards the east side and turn to the left and follow Emil Holms K
+ anal for about 500 m then you will be at the IT-University where the confer
+ ence is taking place. \nOn the way back to the hotel walk back to DR Byen S
+ tation and take the train towards Vestamager Station.\n\nDoes the conferenc
+ e venue have wifi?\nYes. When you arrive at the conference at IT University
+  of Copenhagen you will receive a username and password for accessing the f
+ ree WiFi Network.\n\nDoes the conference venue has car park?\nYes. You have
+  to register and pay for parking at the reception or the Campus Service Ope
+ rations Offices.\n\nPlaces to stay\nVenue is so accessible via Metro (M1) s
+ o if you stay anywhere in walking distance from M1 you can easily commute t
+ o the venue. \n
+LAST-MODIFIED:20170203T232418Z
+LOCATION:IT University of Copenhagen\, Rued Langgaards Vej 7\, 2300 Københa
+ vn S\, Denmark
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Registration and Breakfast
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170212T100000Z
+DTEND:20170212T130000Z
+DTSTAMP:20170204T002016Z
+UID:shbnf2i1572odp52trkj7orcr8@google.com
+CREATED:20170203T232852Z
+DESCRIPTION:You are welcome to join the free City Walking Tour. It starts a
+ t 11:00 and takes approx. 3 hours:\nhttp://www.copenhagenfreewalkingtours.d
+ k/index.html#grand-tour-of-copenhagen\n\nWe are not the ones who organize t
+ his\, so please register yourself here:\nhttp://www.copenhagenfreewalkingto
+ urs.dk/reserve-spot/tour/grand-tour-of-copenhagen/2017-02-12/11:00
+LAST-MODIFIED:20170203T233019Z
+LOCATION:Copenhagen City Hall\, Rådhuspladsen 1\, 1599 København\, Denmark
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Speaker City Tour
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170210T140000Z
+DTEND:20170210T150000Z
+DTSTAMP:20170204T002016Z
+UID:4d02nvukfdbq7avp4if1hfnavc@google.com
+CREATED:20170203T233244Z
+DESCRIPTION:How to get to to AC Hotel Bella Sky from from Copenhagen Airpor
+ t?\n\nAt the airport go to Platform 2 where the regional trains Øressundsto
+ g depart towards Helsingør station. Go 2 stops and get of at Ørestad Statio
+ n. Walk up the stairs to the metro trains. Get the metro train M1 towards V
+ anløse Station. Go only 1 stop and get of at Bella Center Station. Go towar
+ ds the west out of the metro station. Go to the right and follow Ørestads B
+ lvd. You will be able to see AC Hotel Bella Sky towards the north east whic
+ h is the funny building look like some kind of modern version of the Leanin
+ g Tower in Pisa. Follow the next crossing street to the left and it will le
+ ad you straight to the hotel.
+LAST-MODIFIED:20170203T233427Z
+LOCATION:AC Hotel Bella Sky Copenhagen\, Center Blvd. 5\, 2300 København S\
+ , Denmark
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Speaker Hotel Check In
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

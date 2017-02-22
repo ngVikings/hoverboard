@@ -135,16 +135,16 @@
       },
       {
         "name": "Cem Turan",
-        "photoUrl": "/images/people/anonymous.png",
+        "photoUrl": "/images/people/CemTuran.jpg",
         "socials": [
         {
           "icon": "github",
-          "link": "https://github.com/",
+          "link": "https://github.com/cem2ran",
           "name": "GitHub"
         },
         {
           "icon": "twitter",
-          "link": "https://twitter.com/",
+          "link": "https://twitter.com/cem2ran",
           "name": "Twitter"
         }],
         "title": "Co-organizer"
@@ -164,51 +164,18 @@
           "name": "Twitter"
         }],
         "title": "Co-organizer"
-      }
-    ]
-  },
-  {
-    "title": "Contributors",
-    "members": [
-      {
-        "name": "Filip Bech-Larsen",
-        "photoUrl": "/images/people/FilipBech-Larsen.jpg",
-        "socials": [
-        {
-          "icon": "github",
-          "link": "https://github.com/filipbech",
-          "name": "GitHub"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/filipbech",
-          "name": "Twitter"
-        }],
-        "title": "Contributor"
-      },
-      {
-        "name": "Dennis Haulund Nielsen",
-        "photoUrl": "/images/people/anonymous.png",
-        "socials": [],
-        "title": "Contributor"
       },
       {
         "name": "Magnus Gudmundsson",
         "photoUrl": "/images/people/anonymous.png",
         "socials": [],
-        "title": "Contributor"
+        "title": "Co-organizer"
       },
       {
         "name": "Jaime Gonzalez Garcia",
         "photoUrl": "/images/people/anonymous.png",
         "socials": [],
-        "title": "Contributor"
-      },
-      {
-        "name": "Nima Zahedi",
-        "photoUrl": "/images/people/anonymous.png",
-        "socials": [],
-        "title": "Contributor"
+        "title": "Co-organizer"
       }
     ]
   }

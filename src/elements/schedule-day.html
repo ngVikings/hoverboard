@@ -89,10 +89,17 @@
         line-height: 22px;
       }
 
-      .session-meta {
+      .session-meta  {
         margin: 8px 0 0;
         padding: 0;
         font-size: 15px;
+        color: var(--secondary-text-color);
+      }
+
+      .session-materials  {
+        margin: 8px 0 0;
+        padding: 0;
+        font-size: 20px;
         color: var(--secondary-text-color);
       }
 
@@ -101,10 +108,10 @@
         color: #fff;
       }
 
-      .session-meta li {
+      .session-meta li, .session-materials li {
         display: inline-block;
       }
-      .session-meta li:not(:last-of-type)::after {
+      .session-meta li:not(:last-of-type)::after, .session-materials li:not(:last-of-type)::after {
         margin-left: 5px;
         content: "/";
       }
@@ -197,14 +204,16 @@
                       <div class="sub-session-content" flex>
                         <h2 class="session-title">[[subSession.title]]</h2>
                         <ul class="session-meta">
-                          <template is="dom-if" if="[[subSession.language]]">
-                            <li>[[subSession.language]]</li>
-                          </template>
-                          <template is="dom-if" if="[[subSession.complexity]]">
-                            <li>[[subSession.complexity]]</li>
-                          </template>
                           <template is="dom-if" if="[[subSession.track.title]]">
                             <li>[[subSession.track.title]]</li>
+                          </template>
+                        </ul>
+                        <ul class="session-materials">
+                          <template is="dom-if" if="[[subSession.materials.video]]">
+                            <li><strong><a href="[[subSession.materials.video]]" target="_blank">Watch video</a></strong></li>
+                          </template>
+                          <template is="dom-if" if="[[subSession.materials.slides]]">
+                            <li><a href="[[subSession.materials.slides]]" target="_blank">Open slides</a></li>
                           </template>
                         </ul>
                       </div>

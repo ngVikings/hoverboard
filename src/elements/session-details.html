@@ -34,6 +34,21 @@
       paper-icon-item {
         cursor: pointer;
       }
+
+      .session-materials  {
+        margin: 8px 0 0;
+        padding: 0;
+        font-size: 20px;
+        color: var(--secondary-text-color);
+      }
+
+      .session-materials li {
+        display: inline-block;
+      }
+      .session-materials li:not(:last-of-type)::after {
+        margin-left: 5px;
+        content: "/";
+      }
     </style>
 
     <paper-scroll-header-panel id="scrollHeaderPanel" no-reveal>
@@ -72,12 +87,16 @@
               <h1 class="main-title">[[session.title]]</h1>
               <div class="meta highlight">[[session.dateReadable]] / [[session.startTime]] - [[session.endTime]] /
                 [[session.track.title]]
-                <template is="dom-if" if="{{session.language}}">
-                  / [[session.language]]
-                </template>
-                <template is="dom-if" if="{{session.complexity}}">
-                  / [[session.complexity]]
-                </template>
+
+                <ul class="session-materials">
+                  <template is="dom-if" if="[[session.materials.video]]">
+                    <li><strong><a href="[[session.materials.video]]" target="_blank">Watch video</a></strong></li>
+                  </template>
+                  <template is="dom-if" if="[[session.materials.slides]]">
+                    <li><a href="[[session.materials.slides]]" target="_blank">Open slides</a></li>
+                  </template>
+                </ul>
+
               </div>
               <span class="meta">[[_concatArray(session.tags)]]</span>
             </div>
