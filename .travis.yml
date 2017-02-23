@@ -23,3 +23,4 @@ notifications:
   email:
     on_failure: change
     on_success: change
+    slack: ngvikings:zQoPZukTb2HbPBn4bbdXWTB4
